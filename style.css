@@ -40,7 +40,8 @@
 
 .profile .profile-image {
     width: 100%;
-    border: 4px solid #103b05;
+    border-radius: 50%;
+    border: 0.2em solid #015810;
 
  }
 
